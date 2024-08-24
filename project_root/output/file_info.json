@@ -1,0 +1,23 @@
+[
+    {
+        "filename": "file1_utf8_processed.txt",
+        "full_path": "project_root/data/processed\\file1_utf8_processed.txt",
+        "file_size": 21,
+        "creation_time": "2024-08-24",
+        "last_modified": "2024-08-24"
+    },
+    {
+        "filename": "file2_iso_processed.txt",
+        "full_path": "project_root/data/processed\\file2_iso_processed.txt",
+        "file_size": 17,
+        "creation_time": "2024-08-24",
+        "last_modified": "2024-08-24"
+    },
+    {
+        "filename": "file3_utf16_processed.txt",
+        "full_path": "project_root/data/processed\\file3_utf16_processed.txt",
+        "file_size": 13,
+        "creation_time": "2024-08-24",
+        "last_modified": "2024-08-24"
+    }
+]

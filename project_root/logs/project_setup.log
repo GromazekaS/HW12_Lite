@@ -1,0 +1,66 @@
+2024-08-24 10:45:43,918 - INFO - Создана директория: project_root\data\raw
+2024-08-24 10:45:43,918 - INFO - Создана директория: project_root\data\processed
+2024-08-24 10:45:43,919 - INFO - Создана директория: project_root\logs
+2024-08-24 10:45:43,919 - INFO - Создана директория: project_root\backups
+2024-08-24 10:45:43,919 - INFO - Создана директория: project_root\output
+2024-08-24 10:49:57,138 - INFO - Создана директория: project_root\data\raw
+2024-08-24 10:49:57,139 - INFO - Создана директория: project_root\data\processed
+2024-08-24 10:49:57,139 - INFO - Создана директория: project_root\backups
+2024-08-24 10:49:57,140 - INFO - Создана директория: project_root\output
+2024-08-24 10:49:57,141 - INFO - Создан файл: file1_utf8.txt с кодировкой utf-8
+2024-08-24 10:49:57,141 - INFO - Создан файл: file2_iso.txt с кодировкой iso-8859-1
+2024-08-24 10:49:57,143 - INFO - Создан файл: file3_utf16.txt с кодировкой utf-16
+2024-08-24 10:50:27,618 - INFO - Создана директория: project_root\data\raw
+2024-08-24 10:50:27,619 - INFO - Создана директория: project_root\data\processed
+2024-08-24 10:50:27,619 - INFO - Создана директория: project_root\backups
+2024-08-24 10:50:27,619 - INFO - Создана директория: project_root\output
+2024-08-24 10:50:27,620 - INFO - Создан файл: file1_utf8.txt с кодировкой utf-8
+2024-08-24 10:50:27,621 - INFO - Создан файл: file2_iso.txt с кодировкой iso-8859-1
+2024-08-24 10:50:27,622 - INFO - Создан файл: file3_utf16.txt с кодировкой utf-16
+2024-08-24 10:56:32,312 - INFO - Директория project_root\data\raw уже существует
+2024-08-24 10:56:32,313 - INFO - Директория project_root\data\processed уже существует
+2024-08-24 10:56:32,313 - INFO - Директория project_root\backups уже существует
+2024-08-24 10:56:32,313 - INFO - Директория project_root\output уже существует
+2024-08-24 10:56:32,314 - INFO - Создан файл: file1_utf8.txt с кодировкой utf-8
+2024-08-24 10:56:32,315 - INFO - Создан файл: file2_iso.txt с кодировкой iso-8859-1
+2024-08-24 10:56:32,317 - INFO - Создан файл: file3_utf16.txt с кодировкой utf-16
+2024-08-24 10:58:57,984 - INFO - Директория project_root\data\raw уже существует
+2024-08-24 10:58:57,985 - INFO - Директория project_root\data\processed уже существует
+2024-08-24 10:58:57,985 - INFO - Директория project_root\backups уже существует
+2024-08-24 10:58:57,985 - INFO - Директория project_root\output уже существует
+2024-08-24 10:58:57,986 - INFO - Создан файл: file1_utf8.txt с кодировкой utf-8
+2024-08-24 10:58:57,987 - INFO - Создан файл: file2_iso.txt с кодировкой iso-8859-1
+2024-08-24 10:58:57,989 - INFO - Создан файл: file3_utf16.txt с кодировкой utf-16
+INFO:__main__:Директория project_root\data\raw уже существует
+INFO:__main__:Директория project_root\data\processed уже существует
+INFO:__main__:Директория project_root\backups уже существует
+INFO:__main__:Директория project_root\output уже существует
+INFO:__main__:Создан файл: file1_utf8.txt с кодировкой utf-8
+INFO:__main__:Создан файл: file2_iso.txt с кодировкой iso-8859-1
+INFO:__main__:Создан файл: file3_utf16.txt с кодировкой utf-16
+2024-08-24 11:06:04,103 - __main__ - INFO - Директория project_root\data\raw уже существует
+2024-08-24 11:06:04,104 - __main__ - INFO - Директория project_root\data\processed уже существует
+2024-08-24 11:06:04,104 - __main__ - INFO - Директория project_root\backups уже существует
+2024-08-24 11:06:04,104 - __main__ - INFO - Директория project_root\output уже существует
+2024-08-24 11:06:04,105 - __main__ - INFO - Создан файл: file1_utf8.txt с кодировкой utf-8
+2024-08-24 11:06:04,106 - __main__ - INFO - Создан файл: file2_iso.txt с кодировкой iso-8859-1
+2024-08-24 11:06:04,107 - __main__ - INFO - Создан файл: file3_utf16.txt с кодировкой utf-16
+2024-08-24 11:18:39,881 - __main__ - INFO - Файл file1_utf8.txt обработан и сохранён как file1_utf8_processed.txt
+2024-08-24 11:18:39,884 - __main__ - INFO - Файл file2_iso.txt обработан и сохранён как file2_iso_processed.txt
+2024-08-24 11:18:39,886 - __main__ - INFO - Файл file3_utf16.txt обработан и сохранён как file3_utf16_processed.txt
+2024-08-24 11:20:55,923 - __main__ - INFO - Файл file1_utf8.txt обработан и сохранён как file1_utf8_processed.txt
+2024-08-24 11:20:55,927 - __main__ - INFO - Файл file2_iso.txt обработан и сохранён как file2_iso_processed.txt
+2024-08-24 11:20:55,929 - __main__ - INFO - Файл file3_utf16.txt обработан и сохранён как file3_utf16_processed.txt
+2024-08-24 11:24:27,559 - __main__ - INFO - Файл file1_utf8.txt обработан и сохранён как file1_utf8_processed.txt
+2024-08-24 11:24:27,562 - __main__ - INFO - Файл file2_iso.txt обработан и сохранён как file2_iso_processed.txt
+2024-08-24 11:24:27,564 - __main__ - INFO - Файл file3_utf16.txt обработан и сохранён как file3_utf16_processed.txt
+2024-08-24 11:28:42,003 - __main__ - INFO - Файл file1_utf8.txt обработан и сохранён как file1_utf8_processed.txt
+2024-08-24 11:28:42,005 - __main__ - INFO - Файл file2_iso.txt обработан и сохранён как file2_iso_processed.txt
+2024-08-24 11:28:42,008 - __main__ - INFO - Файл file3_utf16.txt обработан и сохранён как file3_utf16_processed.txt
+2024-08-24 11:28:42,010 - root - INFO - Сериализованные данные сохранены в project_root/output\processed_data.json
+2024-08-24 11:45:48,266 - root - INFO - Резервная копия создана: backup_19000101.zip
+2024-08-24 11:51:49,052 - __main__ - INFO - Резервная копия создана: backup_20240824.zip
+2024-08-24 11:54:10,128 - __main__ - INFO - Резервная копия создана: backup_20240824.zip
+2024-08-24 11:54:10,138 - root - INFO - Резервная копия backup_20240824.zip восстановлена в project_root/data_restore
+2024-08-24 12:06:31,744 - __main__ - INFO - Информация о файлах сохранена в project_root/output\file_info.json
+2024-08-24 12:06:31,748 - root - INFO - JSON-файл прошел валидацию.

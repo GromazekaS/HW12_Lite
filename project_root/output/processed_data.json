@@ -1,0 +1,23 @@
+[
+    {
+        "filename": "file1_utf8_processed.txt",
+        "original_text": "Привет, мир!",
+        "transformed_text": "пРИВЕТ, МИР!",
+        "file_size_bytes": 21,
+        "last_modified": "2024-08-24"
+    },
+    {
+        "filename": "file2_iso_processed.txt",
+        "original_text": "Bonjour le monde!",
+        "transformed_text": "bONJOUR LE MONDE!",
+        "file_size_bytes": 17,
+        "last_modified": "2024-08-24"
+    },
+    {
+        "filename": "file3_utf16_processed.txt",
+        "original_text": "Hello, world!",
+        "transformed_text": "hELLO, WORLD!",
+        "file_size_bytes": 13,
+        "last_modified": "2024-08-24"
+    }
+]
